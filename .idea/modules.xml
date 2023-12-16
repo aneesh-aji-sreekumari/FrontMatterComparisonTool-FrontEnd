@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../front-matter-compare-tool.iml" filepath="$PROJECT_DIR$/../front-matter-compare-tool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/FrontMatterComparisonTool-FrontEnd.iml" filepath="$PROJECT_DIR$/.idea/FrontMatterComparisonTool-FrontEnd.iml" />
     </modules>
   </component>
 </project>
